@@ -5,7 +5,7 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 
 ##  Project Structure
 
-├── .vscode/
+├── .vscode/ <br>
 |   |
 │   └── settings.json
 |
