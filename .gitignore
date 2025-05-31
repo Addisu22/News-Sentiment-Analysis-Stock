@@ -1,4 +1,6 @@
 .venv
-Data
-ta_lib-0.6.3-cp311-cp311-win_amd64.whl
-ta_lib-0.6.3-cp311-cp311-win_arm64.whl
+pycache/
+.env
+*.ipynb_checkpoints
+.vscode/
+Data/
