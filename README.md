@@ -9,26 +9,19 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 │   └── settings.json<br>
 ├── .github/<br>
 │   └── workflows<br>
-│       ├── unittests.yml
+│       ├── unittests.yml<br>
 ├── .gitignore<br>
 ├── requirements.txt<br>
 ├── README.md<br>
 ├── src/<br>
-│   ├── __init__.py
-|
-├── notebooks/
-|   |
-│   ├── __init__.py
-|   |
-│   └── README.md
-|
-├── tests/
-|   |
-│   ├── __init__.py
-|
-└── scripts/
-    ├── __init__.py  
-    |
+│   ├── __init__.py<br>
+├── notebooks/<br>
+│   ├── __init__.py<br>
+│   └── README.md<br>
+├── tests/<br>
+│   ├── __init__.py<br>
+└── scripts/<br>
+    ├── __init__.py  <br>
     └── README.md
 
 ##  Objectives (Based on Task 1, completing the following activities)
