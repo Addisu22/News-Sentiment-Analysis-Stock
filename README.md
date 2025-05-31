@@ -7,9 +7,9 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 
 ├── .vscode/ <br>
 |   |
-│   └── settings.json
+│   └── settings.json<br>
 |
-├── .github/
+├── .github/<br>
 |   |
 │   └── workflows
 |       |
