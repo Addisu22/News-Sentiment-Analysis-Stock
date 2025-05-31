@@ -6,17 +6,11 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ##  Project Structure
 
 ├── .vscode/ <br>
-|   |
 │   └── settings.json<br>
-|
 ├── .github/<br>
-|   |
 │   └── workflows
-|       |
 │       ├── unittests.yml
-|
-├── .gitignore
-|
+├── .gitignore<br>
 ├── requirements.txt
 |
 ├── README.md
