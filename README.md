@@ -22,11 +22,14 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 
 ├── src/
 │   ├── __init__.py
+
 ├── notebooks/
 │   ├── __init__.py
 │   └── README.md
+
 ├── tests/
 │   ├── __init__.py
+
 └── scripts/
     ├── __init__.py
     └── README.md
