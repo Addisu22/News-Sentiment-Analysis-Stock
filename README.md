@@ -5,22 +5,6 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 
 ##  Project Structure
 
-MachineLearningWorkflow/
-├── data/                   # Folder for datasets
-├── notebooks/              # Jupyter notebooks for experimentation
-├── src/                    # Main Python package
-│   ├── __init__.py
-│   ├── preprocess.py   # Data cleaning and transformation
-│   ├── model.py        # Define train/test functions and model architectures
-│   ├── evaluate.py     # Functions for accuracy, precision, recall, etc.
-│   └── utils/              # Utility functions
-│       ├── __init__.py
-│       └── helpers.py
-├── tests/                  # Unit tests
-│   └── run_tests.py
-├── README.md               # Project overview
-└── requirements.txt        # Dependencies
-
 ├── .vscode/
 
 │   └── settings.json
@@ -52,9 +36,7 @@ MachineLearningWorkflow/
 │   ├── __init__.py
 
 └── scripts/
-
-    ├── __init__.py
-    
+    ├── __init__.py    
     └── README.md
 
 ##  Objectives (Based on Task 1, completing the following activities)
