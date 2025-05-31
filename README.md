@@ -21,17 +21,23 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ├── README.md
 
 ├── src/
+
 │   ├── __init__.py
 
 ├── notebooks/
+
 │   ├── __init__.py
+
 │   └── README.md
 
 ├── tests/
+
 │   ├── __init__.py
 
 └── scripts/
+
     ├── __init__.py
+    
     └── README.md
 
 ##  Objectives (Based on Task 1, completing the following activities)
