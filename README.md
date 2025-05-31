@@ -8,15 +8,12 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ├── .vscode/ <br>
 │   └── settings.json<br>
 ├── .github/<br>
-│   └── workflows
+│   └── workflows<br>
 │       ├── unittests.yml
 ├── .gitignore<br>
-├── requirements.txt
-|
-├── README.md
-|
-├── src/
-|   |
+├── requirements.txt<br>
+├── README.md<br>
+├── src/<br>
 │   ├── __init__.py
 |
 ├── notebooks/
