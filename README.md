@@ -6,37 +6,38 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ##  Project Structure
 
 ├── .vscode/
-
+|   |
 │   └── settings.json
-
+|
 ├── .github/
-
+|   |
 │   └── workflows
-
+|       |
 │       ├── unittests.yml
-
+|
 ├── .gitignore
-
+|
 ├── requirements.txt
-
+|
 ├── README.md
-
+|
 ├── src/
-
+|   |
 │   ├── __init__.py
-
+|
 ├── notebooks/
-
+|   |
 │   ├── __init__.py
-
+|   |
 │   └── README.md
-
+|
 ├── tests/
-
+|   |
 │   ├── __init__.py
-
+|
 └── scripts/
-    ├── __init__.py    
+    ├── __init__.py  
+    |
     └── README.md
 
 ##  Objectives (Based on Task 1, completing the following activities)
